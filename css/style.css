@@ -618,6 +618,10 @@ a:focus {
   background: #ffbe33;
   color: #ffffff;
 }
+.mission_section {
+  background: #494804;
+  color: #ffffff;
+}
 
 .about_section .row {
   -webkit-box-align: center;
